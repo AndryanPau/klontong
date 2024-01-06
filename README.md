@@ -1,6 +1,11 @@
 # klontong
 
-This template should help get you started developing with Vue 3 in Vite.
+Hanya Build Frontend, semua data pake dummy termasuk login 
+--Login
+username : tes
+password : 123 
+
+fungsi add edit delete tidak akan tereksekusi karena hanya pakai data dummy. tetapi tetap bisa di tes hanya menunjukan fungsi dan design saja.
 
 ## Recommended IDE Setup
 
@@ -22,14 +27,4 @@ npm install
 npm run dev
 ```
 
-### Compile and Minify for Production
 
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```

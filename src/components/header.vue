@@ -13,8 +13,8 @@
       }
     }
   ])
-  function logout(){
-    router.push('/');
+  const logout = () =>{
+    router.push('/login');
   }
 </script>
 
